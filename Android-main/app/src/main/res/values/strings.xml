@@ -1,0 +1,37 @@
+<resources>
+<!--APP-->
+    <string name="app_name">FishCatcher</string>
+
+<!--LOGIN_VIEW-->
+    <string name="no_account">Don\'t have an Account?</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="logo_description">Catch Tracker Logo</string>
+    <string name="logo_banner">Catch Tracker Banner</string>
+    <string name="login_button_description">Login Button</string>
+
+
+<!--CATCH_VIEW-->
+    <string name="catch_fish">Catch</string>
+    <string name="Temp_text">Temp(F)</string>
+    <string name="Humidity_text">Hum</string>
+    <string name="Barometric_text">Bars</string>
+    <string name="My_catches_button">My Catches</string>
+    <string name="Find_fish_button">Filter and Find</string>
+    <string name="reports_text">Reports</string>
+    <string name="Log_out">Log Out</string>
+    <string name="species">Species</string>
+    <string name="length">Length</string>
+    <string name="weight">Weight</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="barometric">Barometric</string>
+    <string name="city">City</string>
+    <string name="date">Date</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+
+<!--FILTER_VIEW-->
+    <string name="filterFind">Filter and Find</string>
+</resources>
